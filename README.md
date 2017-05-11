@@ -21,12 +21,12 @@
 
 ## GAMEPLAY :
 
-  ### Victoire:
+  Victoire:
     Accéder à l'espace suivante.
-  ### Défaite:
+  Défaite:
     Se faire éléminer par l'ennemie.
     
-  ### Contrôle:
+  Contrôle:
    flêches directionelles
    
     _autres fonctionnalités à suivre..._ 
