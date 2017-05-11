@@ -29,7 +29,7 @@
   Contrôle:
    flêches directionelles
    
-    _autres fonctionnalités à suivre..._ 
+  _autres fonctionnalités à suivre...
    
 
 ## 
