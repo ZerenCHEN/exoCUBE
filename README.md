@@ -1,4 +1,4 @@
-# exoCUBE
+# expCUBE
 
     Bonjour, c'est     
 
