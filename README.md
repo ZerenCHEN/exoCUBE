@@ -8,30 +8,29 @@
 
 ## LE JEU:
 
-    Le Cube noir se déplace 
-   
-    dans un univers simple,  
-    
-    jeu 2D, caméra plongé .
-    
-    Des ennemis attaquent ,
-    
-    des zones à surmonter .  
-    
-
+    Le Cube noir se déplace dans un univers simple, jeu 2D, caméra plongé. Des ennemis attaquent, des zones à surmonter .
+ 
+ Benshmark :
+  * Nier Automata
+  * Zelda : twilight princess
+  * et autre jeu action/ énigme  
+ 
 ## GAMEPLAY :
-
-  Victoire:
-    Accéder à l'espace suivante.
-  Défaite:
-    Se faire éléminer par l'ennemie.
     
-  Contrôle:
-   flêches directionelles
+        Incarnez un cube expérimental, le but est de franchir le parcours jusqu'à la dernière étape.
+        Nous espérons tant que ce cube sera celui qui accèdera à la salle de . 
+
+  * Victoire:
+      Accéder à l'espace suivante.
+  * Défaite:
+      Se faire éléminer par ce monde! 
+    
+  * Contrôle:
+     flêches directionelles
    
-  _autres fonctionnalités à suivre...
+  * autres fonctionnalités à suivre...
    
 
-## 
+## TECHNOLOGIE
     
     Jeux développé en Javascript, avec Phaser.
