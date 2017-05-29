@@ -12,7 +12,7 @@
  
  Benshmark :
   * Nier Automata
-  https://preview.ibb.co/mdfm3F/Sans_titre20170529103047.png
+  ![wireframe](https://preview.ibb.co/mdfm3F/Sans_titre20170529103047.png "wireframe 1")
   * Zelda : twilight princess
   * et autre jeu action/ énigme  
  
