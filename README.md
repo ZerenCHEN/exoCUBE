@@ -45,4 +45,5 @@ Jeux développé en Javascript, avec Phaser.*
 ## DATAS 
 (débuter le 30/05/17 à 23h30)
 
-Si non rien n'est fait pour le moment （⌒▽⌒ゞ
+Si non rien n'est fait pour le moment （⌒▽⌒ゞ 
+Alors ça vous plaît?
