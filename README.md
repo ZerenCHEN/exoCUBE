@@ -40,4 +40,9 @@ et s'inspire d'autres jeux action/ énigme ...
    
 ## TECHNOLOGIE
   
-Jeux développé en Javascript, avec Phaser.
+Jeux développé en Javascript, avec Phaser.*
+
+## DATAS 
+(débuter le 30/05/17 à 23h30)
+
+Si non rien n'est fait pour le moment （⌒▽⌒ゞ
