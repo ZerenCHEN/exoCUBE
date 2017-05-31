@@ -4,6 +4,8 @@
 
     un jeu avec un cube noir.
     Merci pour votre soutien. ♥(ˆ⌣ˆԅ) （⌒▽⌒ゞ ∩(︶▽︶)∩ (￣▽￣)ノ (n˘v˘•)¬ (๑•̀ㅂ•́)و (/^▽^)/
+    
+    Devriez vous vous sentir puissant ? Malgré vous vous ne le condidère plus ?
 
 
 ## LE JEU:
