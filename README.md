@@ -1,5 +1,5 @@
 # (Projet annulé)
-    le 13/06/2017
+    le 13/06/2017 Dsl je suis expiré. Veuillez attendre "The better me".
 
 # exoCUBE
 
