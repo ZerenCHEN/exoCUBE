@@ -1,3 +1,6 @@
+# (Projet annulé)
+    le 13/06/2017
+
 # exoCUBE
 
     Bonjour, c'est     
@@ -49,3 +52,5 @@ Jeux développé en Javascript, avec Phaser.*
 
 Si non rien n'est fait pour le moment （⌒▽⌒ゞ 
 Alors ça vous plaît?
+
+(projet archiver le 13/06/17 à 15h17)
